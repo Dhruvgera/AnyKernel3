@@ -15,7 +15,7 @@ device.name2=PocoF1
 device.name3=PocophoneF1
 device.name4=
 device.name5=
-supported.versions=10,11
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
