@@ -13,8 +13,8 @@ do.cleanuponabort=0
 device.name1=beryllium
 device.name2=PocoF1
 device.name3=PocophoneF1
-device.name4=
-device.name5=
+device.name4=santoni
+device.name5=REDMI-4X
 supported.versions=
 supported.patchlevels=
 '; } # end properties
