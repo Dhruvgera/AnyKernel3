@@ -4,28 +4,14 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=m_vaisakh @ xda-developers
+kernel.string=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=alioth
-device.name2=aliothin
-device.name3=apollo
-device.name4=apollon
-device.name5=apollopro
-device.name6=cmi
-device.name7=dagu
-device.name8=elish
-device.name9=enuma
-device.name10=lmi
-device.name11=lmipro
-device.name12=munch
-device.name13=munchin
-device.name14=psyche
-device.name15=thyme
-device.name16=umi
+device.name1=munch
+device.name2=munchin
 supported.versions=
 supported.patchlevels=
 '; } # end properties
